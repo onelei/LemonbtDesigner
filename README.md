@@ -1,2 +1,2 @@
-# LemonbtDesigner
-Cross platform behavior tree IDE application.
+# lemontree
+Cross platform behavior tree IDE application. :wink:
